@@ -1,0 +1,100 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    width: 25%;
+    background: #fbfbfa;
+    color: #fff;
+    margin: 0 auto;
+    padding: 150px;
+}
+
+h1, h2{
+    color: #fff;
+    font-size: 2rem;
+    text-align: center;
+}
+
+h2{
+    font-size: 1.6rem;
+}
+
+input[type=submit]{
+    background: #000;
+    color: #fff;
+    margin-bottom: 15px;
+    padding: 10px 20px;
+}
+
+input[type=submit]:hover{
+    background: #3d3938;
+    cursor: pointer;
+}
+
+.game-title{
+    color: #333;
+    text-align: center;
+}
+
+.box{
+    height: 430px;
+    background: #000;
+    padding: 15px;
+    position: relative;
+}
+
+.fast-text{
+    margin-top: 60px;
+}
+
+.form-1{
+    width: 140px;
+    margin : 80px auto 0 auto;
+}
+
+.game-start-btn{
+    width: 140px;
+    height: 60px;
+    display: block;
+}
+
+.img-box{
+    height: 160px;
+}
+
+.center-text{
+    text-align: center;
+}
+
+.monster-img{
+    width: 120px;
+    height: auto;
+    margin: 40px auto 0 auto;
+    display: block;
+}
+
+.center-p{
+    text-align: center;
+}
+
+.form-2{
+    width: 160px;
+    margin: 15px auto 0 auto;
+}
+
+.history-box{
+    width: 200px;
+    height: 100px;
+    color: #000;
+    position: absolute;
+    top: 0;
+    right: -220px;
+}
+
+.scroll-area{
+    height: 400px;
+    padding: 20px;
+    border: 2px solid #000;
+    overflow: scroll;
+}
